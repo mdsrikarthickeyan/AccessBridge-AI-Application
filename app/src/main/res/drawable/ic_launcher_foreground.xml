@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Accessible arch bridge foundation -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M24,76 C36,66 72,66 84,76 L84,81 C72,71 36,71 24,81 Z" />
+    
+    <!-- Human figure head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,29 A5,5 0 1,0 54,39 A5,5 0 1,0 54,29 Z" />
+
+    <!-- Open welcoming arms and torso -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,47 C40,43 50,43 54,43 C58,43 68,43 73,47 C74,48 74,51 72,52 C70,53 67,52 65,50 C62,48 57,47 54,47 C51,47 46,48 43,50 C41,52 38,53 36,52 C34,51 34,48 35,47 Z" />
+
+    <!-- Mobility wheel and supportive posture -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,47 L51,62 L63,62 C64,62 65,63 65,64 C65,65 64,66 63,66 L49,66 C48,66 47,65 47,64 L47,48 C47,47 48,47 49,47 Z" />
+
+    <!-- Wheel arch -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M54,55 C48,55 43,60 43,66 C43,72 48,77 54,77 C60,77 65,72 65,66 L61,66 C61,70 58,73 54,73 C50,73 47,70 47,66 C47,62 50,59 54,59 Z" />
+
+    <!-- Sound / sensory pulse arcs -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M70,36 C73,39 73,45 70,48 L68,46 C70,44 70,40 68,38 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,36 C35,39 35,45 38,48 L40,46 C38,44 38,40 40,38 Z" />
+</vector>

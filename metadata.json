@@ -1,0 +1,8 @@
+{
+  "name": "AccessBridge AI",
+  "description": "Inclusive accessibility companion for understanding notices, finding accessible places, communicating, and reporting barriers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
